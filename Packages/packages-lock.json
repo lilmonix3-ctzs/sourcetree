@@ -94,7 +94,15 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.burst": {
+<<<<<<< HEAD
       "version": "1.8.13",
+=======
+<<<<<<< HEAD
+      "version": "1.8.17",
+=======
+      "version": "1.8.13",
+>>>>>>> 4f3699488560b581bc573bc62575cfd555b2f01d
+>>>>>>> b94191fcfb31464b6d8ec022ed4dd021adc85ca8
       "depth": 1,
       "source": "registry",
       "dependencies": {
